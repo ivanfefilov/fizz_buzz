@@ -1,1 +1,1 @@
-# fizz_buzz
+# ruby fizz_buzz.rb
